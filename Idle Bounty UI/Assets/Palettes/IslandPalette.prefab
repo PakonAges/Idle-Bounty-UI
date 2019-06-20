@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4346196858023170775}
   - component: {fileID: 4257915071082929649}
   - component: {fileID: 2710276183849787098}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: Layer1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40,16 +40,175 @@ Tilemap:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2985474140747413521}
   m_Enabled: 1
-  m_Tiles: {}
+  m_Tiles:
+  - first: {x: -1, y: 0, z: 0}
+    second:
+      m_TileIndex: 0
+      m_TileSpriteIndex: 0
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 0, y: 0, z: 0}
+    second:
+      m_TileIndex: 1
+      m_TileSpriteIndex: 1
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 1, y: 0, z: 0}
+    second:
+      m_TileIndex: 2
+      m_TileSpriteIndex: 2
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 2, y: 0, z: 0}
+    second:
+      m_TileIndex: 3
+      m_TileSpriteIndex: 3
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 3, y: 0, z: 0}
+    second:
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 4, y: 0, z: 0}
+    second:
+      m_TileIndex: 5
+      m_TileSpriteIndex: 5
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 5, y: 0, z: 0}
+    second:
+      m_TileIndex: 6
+      m_TileSpriteIndex: 6
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 6, y: 0, z: 0}
+    second:
+      m_TileIndex: 7
+      m_TileSpriteIndex: 7
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 7, y: 0, z: 0}
+    second:
+      m_TileIndex: 8
+      m_TileSpriteIndex: 8
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: 8, y: 0, z: 0}
+    second:
+      m_TileIndex: 9
+      m_TileSpriteIndex: 9
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
   m_AnimatedTiles: {}
-  m_TileAssetArray: []
-  m_TileSpriteArray: []
-  m_TileMatrixArray: []
-  m_TileColorArray: []
+  m_TileAssetArray:
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: dec7c1bdbb0cd5641bdf1433398c8965, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: e76e4c9a5559c6d43b914d5f032a114d, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: ed4ea25884463ed4c9a60fa9c089f201, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 7b209cacb3d40a547af6d129b75c3374, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 258a2de87330aa74ab5a4c1e721af2e0, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: e84eee7d044a2db498deded6e3dcc0f8, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 07d7615e6c770e748a551d52e193b9ff, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: b9c92c4bc79b0b748b6d805abe717830, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 0f8fda8eed8cfb041a10c01280700e07, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: cd891c65176c79d43b6161e4c93b4351, type: 2}
+  m_TileSpriteArray:
+  - m_RefCount: 1
+    m_Data: {fileID: -4121552970742667347, guid: 7890a79162e6beb429a3477709202854,
+      type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 763753721083369900, guid: 7890a79162e6beb429a3477709202854, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: -8347268847555124518, guid: 7890a79162e6beb429a3477709202854,
+      type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 2440862451188981583, guid: 7890a79162e6beb429a3477709202854,
+      type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 2684063006441461656, guid: 7890a79162e6beb429a3477709202854,
+      type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: -3237187820981349603, guid: 7890a79162e6beb429a3477709202854,
+      type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 9022650312342771209, guid: 7890a79162e6beb429a3477709202854,
+      type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 7905800433308816291, guid: 7890a79162e6beb429a3477709202854,
+      type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 5530675611882495669, guid: 7890a79162e6beb429a3477709202854,
+      type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 4020625454296536425, guid: 7890a79162e6beb429a3477709202854,
+      type: 3}
+  m_TileMatrixArray:
+  - m_RefCount: 10
+    m_Data:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_TileColorArray:
+  - m_RefCount: 10
+    m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Origin: {x: 0, y: 0, z: 0}
-  m_Size: {x: 0, y: 0, z: 1}
+  m_Origin: {x: -1, y: 0, z: 0}
+  m_Size: {x: 10, y: 1, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:
@@ -76,10 +235,10 @@ TilemapRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2985474140747413521}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
+  m_DynamicOccludee: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -125,7 +284,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1345596103797693111}
   - component: {fileID: 2165648885208362809}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: IslandPalette
   m_TagString: Untagged
   m_Icon: {fileID: 0}
