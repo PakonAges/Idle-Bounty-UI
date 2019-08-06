@@ -15,7 +15,7 @@ TagManager:
   - 
   - 
   - BackGround
-  - 
+  - Army
   - 
   - 
   - 
@@ -50,6 +50,9 @@ TagManager:
     locked: 0
   - name: Bg Foreground 2
     uniqueID: 3174635047
+    locked: 0
+  - name: Army
+    uniqueID: 3394716685
     locked: 0
   - name: UI
     uniqueID: 2557602725
